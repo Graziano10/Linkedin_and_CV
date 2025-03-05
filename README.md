@@ -1,6 +1,6 @@
 # Linkedin and CV
 
-Link Profile Linkedin: https://www.linkedin.com/in/gaziano-corineo-full-stack-developer/
+Link Profile Linkedin: https://www.linkedin.com/in/graziano-corineo-full-stack-developer/
 
 CV Graziano corineo (Jr. Full Stack Developer).pdf
 
