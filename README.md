@@ -13,3 +13,6 @@ Project online:
 website File Manager: https://website-all.com/
 
 Website PH: https://portfolio-photographer-seven.vercel.app/
+
+
+***Many of the repositories created are private. Contact email: grazianocorineodev@gmail.com
