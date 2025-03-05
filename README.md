@@ -7,5 +7,9 @@ CV Graziano corineo (Jr. Full Stack Developer).pdf
 Download: 
 (https://github.com/Graziano10/Linkedin/files/12241569/CV.Graziano.corineo.Jr.Full.Stack.Developer.pdf)
 
+
+Project online:
+
 website File Manager: https://website-all.com/
-Website ph: https://portfolio-photographer-seven.vercel.app/
+
+Website PH: https://portfolio-photographer-seven.vercel.app/
